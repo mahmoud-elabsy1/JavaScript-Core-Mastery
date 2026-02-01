@@ -2,7 +2,7 @@
 
 This repository documents my deep dive into **JavaScript**, specifically tailored for a **Backend Engineering** path. It focuses on understanding the engine, memory management, and solving algorithmic challenges using pure JS logic.
 
-## 📂 Repository Structure
+# 📂 Repository Structure
 
 | Module | Focus Area | Key Concepts |
 | :--- | :--- | :--- |
